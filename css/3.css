@@ -1,0 +1,54 @@
+*{
+    font-family: Rubik,sans-serif;
+}
+strong{
+    color: #6674CC;
+}
+/* .section{
+    display: flex;
+    padding: 0px;
+} */
+.card{
+    width: 25.4vw;
+    border-radius: 10px;
+    padding: 17px 17px 0px 17px;
+    margin-top: 75px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+img{
+    width: 25vw;
+    border-radius: 10px;
+}
+.course-heading{
+    font-size:x-large;
+    font-weight: bolder;
+    margin-bottom: 10px;  
+    width: 20vw;
+}
+hr{
+    width: 250px;
+    color: #8D9299;
+    margin: 0px;
+}
+.content{
+    display: flex;
+    margin-top: 0px;
+}
+p{
+    margin-right: 20px;
+    font-size: large;
+    font-weight: bold;
+}
+
+
+.recent-price{
+    color: #6674CC;
+}
+.actual-price{
+    color: #8D9299;
+}
+.offer{
+    border-radius: 6px;
+    color: white;
+    background-color: #39D6AC;
+}
